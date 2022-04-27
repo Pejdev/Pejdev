@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Pedro José, Estudante de tecnologia e programação!✌️
+### Olá! Eu sou o Pedro José, estudante de tecnologia e programação!✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-jos%C3%A9-barbosa-de-ara%C3%BAjo-116063144)
 [![Site](https://img.shields.io/website?label=curriculo-pedroaraujo&style=for-the-badge&url=https://https://curriculo-pedroaraujo.netlify.app//)](https://curriculo-pedroaraujo.netlify.app/)
